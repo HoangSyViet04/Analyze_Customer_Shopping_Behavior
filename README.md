@@ -75,7 +75,7 @@ Raw Data (3,900 rows)
 
 ## Key Insights
 
-### Phát hiện bất ngờ
+### Phát hiện chính
 
 1. **Discount không hiệu quả**: AOV giữa nhóm có/không giảm giá gần bằng nhau (~$59-60) → doanh nghiệp đang "cho không" margin
 
