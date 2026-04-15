@@ -118,9 +118,4 @@ jupyter notebook main.ipynb
 ```
 
 ## Tác giả
-
-Dự án phân tích dữ liệu end-to-end: từ EDA → Clustering → Prediction → Recommendation, tập trung vào **actionable business insights** thay vì chỉ chạy model.
-
----
-
-*Mỗi biểu đồ đều có 3 phần: Nhận xét (thấy gì?) → Nguyên nhân (tại sao?) → Hành động (doanh nghiệp làm gì?) — không chỉ phân tích, mà đưa ra quyết định.*
+Hoàng Sỹ Việt
